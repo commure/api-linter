@@ -33,7 +33,7 @@ func AddRules(r lint.RuleRegistry) error {
 		pluralMethodName,
 		requestMessageName,
 		requestParentField,
-		requestParentReference,
+		//requestParentReference,
 		//requestRequestsBehavior,
 		requestRequestsField,
 		requestUnknownFields,
