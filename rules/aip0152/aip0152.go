@@ -31,7 +31,7 @@ func AddRules(r lint.RuleRegistry) error {
 		httpMethod,
 		httpUriSuffix,
 		requestMessageName,
-		requestNameBehavior,
+		//requestNameBehavior,
 		requestNameField,
 		requestNameReference,
 		requestResourceSuffix,

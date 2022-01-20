@@ -35,7 +35,7 @@ func AddRules(r lint.RuleRegistry) error {
 		httpVerb,
 		requestParentField,
 		requestParentReference,
-		requestRequestsBehavior,
+		//requestRequestsBehavior,
 		requestRequestsField,
 		requestUnknownFields,
 		responseResourceField,
