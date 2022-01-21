@@ -30,17 +30,17 @@ func AddRules(r lint.RuleRegistry) error {
 		httpMethod,
 		httpParentVariable,
 		httpURISuffix,
-		requestFilterBehavior,
+		//requestFilterBehavior,
 		requestFilterField,
 		requestForceField,
 		requestMessageName,
-		requestParentBehavior,
+		//requestParentBehavior,
 		requestParentField,
-		requestParentReference,
+		//requestParentReference,
 		responseMessageName,
 		responsePurgeCountField,
 		responsePurgeSampleField,
-		responsePurgeSampleReference,
+		//responsePurgeSampleReference,
 	)
 }
 
