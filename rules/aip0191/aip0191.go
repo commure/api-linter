@@ -30,9 +30,9 @@ func AddRules(r lint.RuleRegistry) error {
 		filename,
 		fileLayout,
 		fileOptionConsistency,
-		javaMultipleFiles,
-		javaOuterClassname,
-		javaPackage,
+		//javaMultipleFiles,
+		//javaOuterClassname,
+		//javaPackage,
 		phpNamespace,
 		//protoPkg, //TODO: Shawn please make this not look at the path from Root.
 		rubyPackage,
